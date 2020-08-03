@@ -12,11 +12,11 @@
     </style>
 
     <style name="Margin3" parent="AppTheme">
-        <item name="android:layout_margin">10dp</item>
+        <item name="android:layout_margin">3dp</item>
     </style>
 
     <style name="Margin10" parent="AppTheme">
-        <item name="android:layout_margin">50dp</item>
+        <item name="android:layout_margin">10dp</item>
     </style>
 
 </resources>
